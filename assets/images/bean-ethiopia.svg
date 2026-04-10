@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#D4A574"/>
+      <stop offset="100%" stop-color="#8B5A2B"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)"/>
+  <g opacity="0.7">
+    <ellipse cx="120" cy="170" rx="38" ry="24" fill="#3A2014" transform="rotate(20 120 170)"/>
+    <path d="M 90 170 Q 120 164 150 170" stroke="#1A0F08" stroke-width="2" fill="none" transform="rotate(20 120 170)"/>
+    <ellipse cx="220" cy="200" rx="42" ry="26" fill="#4A2C1A" transform="rotate(-15 220 200)"/>
+    <path d="M 188 200 Q 220 194 252 200" stroke="#1A0F08" stroke-width="2" fill="none" transform="rotate(-15 220 200)"/>
+    <ellipse cx="300" cy="140" rx="36" ry="22" fill="#2E1A10" transform="rotate(40 300 140)"/>
+    <path d="M 272 140 Q 300 135 328 140" stroke="#1A0F08" stroke-width="2" fill="none" transform="rotate(40 300 140)"/>
+  </g>
+  <text x="200" y="50" font-family="Georgia, serif" font-size="22" fill="#2A1810" text-anchor="middle" opacity="0.6">Ethiopia Yirgacheffe</text>
+</svg>
