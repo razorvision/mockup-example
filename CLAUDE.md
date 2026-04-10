@@ -56,6 +56,7 @@ Files that contain the stamp (update all of them on every delivery):
 - `index.html`
 - `pages/about.html`
 - `pages/menu.html`
+- `pages/wholesale.html`
 - `pages/contact.html`
 
 Snapshots under `versions/v{N}/` keep their **original** stamp — never rewrite a snapshot to show a newer version.
