@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#C97B3F"/>
+      <stop offset="100%" stop-color="#6B4423"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)"/>
+  <g opacity="0.7">
+    <ellipse cx="100" cy="200" rx="40" ry="25" fill="#3A2014" transform="rotate(-20 100 200)"/>
+    <path d="M 70 200 Q 100 194 130 200" stroke="#1A0F08" stroke-width="2" fill="none" transform="rotate(-20 100 200)"/>
+    <ellipse cx="200" cy="160" rx="44" ry="28" fill="#4A2C1A" transform="rotate(10 200 160)"/>
+    <path d="M 168 160 Q 200 154 232 160" stroke="#1A0F08" stroke-width="2" fill="none" transform="rotate(10 200 160)"/>
+    <ellipse cx="310" cy="210" rx="38" ry="24" fill="#2E1A10" transform="rotate(-35 310 210)"/>
+    <path d="M 282 210 Q 310 205 338 210" stroke="#1A0F08" stroke-width="2" fill="none" transform="rotate(-35 310 210)"/>
+  </g>
+  <text x="200" y="50" font-family="Georgia, serif" font-size="22" fill="#2A1810" text-anchor="middle" opacity="0.6">Colombia Huila</text>
+</svg>
