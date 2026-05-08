@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#B8843E"/>
+      <stop offset="100%" stop-color="#5A381F"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)"/>
+  <g opacity="0.7">
+    <ellipse cx="110" cy="180" rx="40" ry="25" fill="#3A2014" transform="rotate(15 110 180)"/>
+    <path d="M 80 180 Q 110 174 140 180" stroke="#1A0F08" stroke-width="2" fill="none" transform="rotate(15 110 180)"/>
+    <ellipse cx="210" cy="150" rx="38" ry="24" fill="#4A2C1A" transform="rotate(-30 210 150)"/>
+    <path d="M 182 150 Q 210 145 238 150" stroke="#1A0F08" stroke-width="2" fill="none" transform="rotate(-30 210 150)"/>
+    <ellipse cx="300" cy="200" rx="42" ry="26" fill="#2E1A10" transform="rotate(20 300 200)"/>
+    <path d="M 268 200 Q 300 194 332 200" stroke="#1A0F08" stroke-width="2" fill="none" transform="rotate(20 300 200)"/>
+  </g>
+  <text x="200" y="50" font-family="Georgia, serif" font-size="22" fill="#2A1810" text-anchor="middle" opacity="0.6">Kenya Nyeri AA</text>
+</svg>
