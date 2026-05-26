@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="wall" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3A2A20"/>
+      <stop offset="100%" stop-color="#2A1810"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#wall)"/>
+  <!-- Floor -->
+  <rect y="380" width="800" height="120" fill="#1A0F08"/>
+  <!-- Roaster drum -->
+  <circle cx="280" cy="280" r="100" fill="#5A3D2A" stroke="#1A0F08" stroke-width="3"/>
+  <circle cx="280" cy="280" r="70" fill="#3A2A1A" stroke="#1A0F08" stroke-width="2"/>
+  <circle cx="280" cy="280" r="40" fill="#1A0F08"/>
+  <rect x="170" y="270" width="20" height="20" fill="#1A0F08"/>
+  <rect x="370" y="270" width="20" height="20" fill="#1A0F08"/>
+  <!-- Smokestack -->
+  <rect x="265" y="100" width="30" height="80" fill="#2A1810" stroke="#1A0F08" stroke-width="2"/>
+  <!-- Side equipment -->
+  <rect x="500" y="220" width="180" height="160" fill="#3A2A1A" stroke="#1A0F08" stroke-width="2"/>
+  <rect x="520" y="240" width="60" height="60" fill="#1A0F08"/>
+  <rect x="600" y="240" width="60" height="60" fill="#1A0F08"/>
+  <rect x="520" y="320" width="140" height="40" fill="#5A3D2A"/>
+  <!-- Bag stacks -->
+  <rect x="40" y="320" width="60" height="60" fill="#A88A5C"/>
+  <rect x="40" y="320" width="60" height="60" fill="none" stroke="#1A0F08" stroke-width="1"/>
+  <rect x="40" y="280" width="60" height="40" fill="#B89A6C"/>
+  <rect x="40" y="280" width="60" height="40" fill="none" stroke="#1A0F08" stroke-width="1"/>
+  <rect x="110" y="320" width="60" height="60" fill="#A88A5C"/>
+  <rect x="110" y="320" width="60" height="60" fill="none" stroke="#1A0F08" stroke-width="1"/>
+  <!-- Warm light -->
+  <ellipse cx="400" cy="100" rx="220" ry="50" fill="#C97B3F" opacity="0.25"/>
+</svg>
