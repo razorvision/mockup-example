@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#A0673F"/>
+      <stop offset="100%" stop-color="#4A2C1A"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)"/>
+  <g opacity="0.7">
+    <ellipse cx="140" cy="170" rx="42" ry="26" fill="#2E1A10" transform="rotate(30 140 170)"/>
+    <path d="M 108 170 Q 140 164 172 170" stroke="#1A0F08" stroke-width="2" fill="none" transform="rotate(30 140 170)"/>
+    <ellipse cx="260" cy="190" rx="40" ry="25" fill="#3A2014" transform="rotate(-25 260 190)"/>
+    <path d="M 230 190 Q 260 184 290 190" stroke="#1A0F08" stroke-width="2" fill="none" transform="rotate(-25 260 190)"/>
+  </g>
+  <text x="200" y="50" font-family="Georgia, serif" font-size="22" fill="#2A1810" text-anchor="middle" opacity="0.6">Guatemala Antigua</text>
+</svg>

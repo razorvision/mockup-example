@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#9E6B3F"/>
+      <stop offset="100%" stop-color="#3A2014"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)"/>
+  <g opacity="0.7">
+    <ellipse cx="130" cy="170" rx="40" ry="25" fill="#2E1A10" transform="rotate(25 130 170)"/>
+    <path d="M 100 170 Q 130 164 160 170" stroke="#1A0F08" stroke-width="2" fill="none" transform="rotate(25 130 170)"/>
+    <ellipse cx="250" cy="180" rx="42" ry="26" fill="#3A2014" transform="rotate(-20 250 180)"/>
+    <path d="M 218 180 Q 250 174 282 180" stroke="#1A0F08" stroke-width="2" fill="none" transform="rotate(-20 250 180)"/>
+  </g>
+  <text x="200" y="50" font-family="Georgia, serif" font-size="22" fill="#2A1810" text-anchor="middle" opacity="0.6">Brazil Cerrado</text>
+</svg>
